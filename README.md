@@ -1,4 +1,0 @@
-easyscreamer
-============
-
-Easy Screamer
